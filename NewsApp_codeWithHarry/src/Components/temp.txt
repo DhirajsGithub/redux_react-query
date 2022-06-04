@@ -1,0 +1,12 @@
+<Route exact path='business/' element={<News pageSize = {5} country = "in" category= "sports"/>} />
+<Route exact path='entertainment/' element={<News pageSize = {5} country = "in" category= "sports"/>} />
+<Route exact path='general/' element={<News pageSize = {5} country = "in" category= "sports"/>} />
+<Route exact path='health/' element={<News pageSize = {5} country = "in" category= "sports"/>} />
+<Route exact path='science/' element={<News pageSize = {5} country = "in" category= "sports"/>} />
+<Route exact path='sports/' element={<News pageSize = {5} country = "in" category= "sports"/>} />
+<Route exact path='technology/' element={<News pageSize = {5} country = "in" category= "sports"/>} />
+
+
+<Route exact path='/' element={<News pageSize = {5} country = "in" category= "sports"/>} />
+
+317e390ae6524c8e80026de9c473e30e
