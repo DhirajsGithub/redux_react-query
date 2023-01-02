@@ -1,0 +1,19 @@
+.person:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+}
+.img img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    padding: 0 0.5rem;
+    
+}
+.person {
+    display: flex;
+    align-items: center;
+}
+.person h1{
+    margin-left: 1rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

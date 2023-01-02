@@ -1,0 +1,62 @@
+.form{
+    font-size: 3rem;
+    width: 45%;
+    margin: 0 auto;
+    margin-top: 10vh;
+    background: rgb(133, 175, 187);
+    padding: 2rem;
+    border-radius: 2rem;
+}
+.form [type="text"] {
+    font-size: 2rem;
+}
+.form [type="file"] {
+    font-size: 2rem;
+    width: 50%;
+}
+.form [type="password"] {
+    font-size: 2rem;
+}
+.form [type="textarea"] {
+    font-size: 2rem;
+}
+.logo {
+    /* border-radius: 100% !important; */
+    object-fit:cover;
+}
+.form Button{
+    font-size: 2rem;
+    padding: 4px 18px;
+}
+.btns{
+    margin: 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+.btns Button{
+    transition-duration: 3s;
+    transition: ease-in-out;
+    
+    /* box-shadow: 5px 5px 5px blue !important; */
+}
+.btns Button:hover{
+    transition-duration: 0.2s !important;
+    transform: scale(1.1);
+    /* box-shadow: 0 0 0 blue !important; */
+}
+.invalidCredentials {
+    border: 1px solid rgba(255, 55, 55, 0.97);
+    background-color: #fbdada;
+}
+
+@media (min-width: 600px) and (max-width: 1000px){
+    .form{
+        width: 70%;
+    }
+}
+
+@media only screen and (max-width: 600px)   {
+    .form{
+        width: 90%;
+    }
+}

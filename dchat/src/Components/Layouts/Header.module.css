@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Montserrat:wght@200;300;400;800&family=Ubuntu:wght@300&display=swap');
+.header {
+    font-size: 2rem;
+}
+.heading{
+    font-size: 4rem;
+    font-family: 'Architects Daughter', cursive;
+} 
+.heading [title="Profile"]{
+    color: aquamarine;
+    font-size: 4rem !important;
+}
+.dropdown{
+    font-size: 3rem !important;
+}
+.navItem{
+    margin-left: 2rem;
+}
+.modalOverlay {
+    z-index: -2;
+    opacity: 0.5;
+}
