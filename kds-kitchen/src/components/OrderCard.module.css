@@ -1,0 +1,28 @@
+.main{
+    width: 25rem;
+    padding: 1rem;
+    box-shadow: 2px 4px 2px 2px rgba(0, 0, 0, 0.313);
+    margin: 2rem;
+    flex-grow: 0.2;
+}
+.ul{
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+.headPara{
+    margin-bottom: 0.5rem;
+}
+.btn{
+    margin-top: 1rem;
+    max-width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
+.main:hover{
+    transform: scale(1.006);
+}
+@media only screen and (max-width: 600px){
+    .main{
+       width: 20rem;
+    }
+}

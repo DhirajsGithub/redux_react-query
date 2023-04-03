@@ -1,0 +1,82 @@
+{
+  "orders": [
+    {
+      "id" : 1,
+      "timeReqMin": "6",
+      "name": "Manish Panday",
+      "role": "Customer",
+      "orders": [
+        "Alu Mutter",
+        "Panner Tadka",
+        "Fried Rice",
+        "Nan - butter",
+        "Dal Fry - Spicy"
+      ],
+      "status" : "ordered",
+      "time" : "1680551602460"
+    },
+    {
+      "id" : 2,
+        "timeReqMin": "7",
+        "name": "Deepak Chahal",
+        "role": "Customer",
+        "orders": [
+          "Alu Mutter",
+          "Panner Tadka",
+          "Fried Rice",
+          "Nan - butter",
+          "Dal Fry - Spicy"
+        ],
+        "status" : "ordered",
+        "time" : "1680551602460"
+
+      },
+      {
+        "id" : 3,
+        "timeReqMin": "6",
+        "name": "Rahul Chaudhar",
+        "role": "Customer",
+        "orders": [
+          "Alu Mutter",
+          "Panner Tadka",
+          "Fried Rice",
+          "Nan - butter",
+          "Dal Fry - Spicy"
+        ],
+        "status" : "ordered",
+        "time" : "1680551602460"
+
+      },
+      {
+        "id" : 4,
+        "timeReqMin": "10",
+        "name": "Mahi Rathore",
+        "role": "Customer",
+        "orders": [
+          "Alu Mutter",
+          "Panner Tadka",
+          "Fried Rice",
+          "Nan - butter",
+          "Dal Fry - Spicy"
+        ]
+        ,
+      "status" : "ordered",
+      "time" : "1680551602460"
+      },
+      {
+        "id" : 5,
+        "timeReqMin": "8",
+        "name": "Virat Sing",
+        "role": "Customer",
+        "orders": [
+          "Alu Mutter",
+          "Panner Tadka",
+          "Fried Rice",
+          "Nan - butter",
+          "Dal Fry - Spicy"
+        ],
+        "status" : "ordered",
+        "time" : "1680551602460"
+      }
+  ]
+}

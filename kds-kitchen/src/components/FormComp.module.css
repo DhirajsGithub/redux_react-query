@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    padding: 2rem;
+}
+
+.input{
+    font-size: 1.5rem;
+    padding: 0.5rem;
+}
+.inputDiv{
+    margin: 2rem;
+}   
