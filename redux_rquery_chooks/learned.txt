@@ -1,0 +1,5 @@
+react query : 
+https://www.youtube.com/watch?v=k1tus-TmqCE&ab_channel=RoadsideCoder
+
+react redux : 
+https://www.youtube.com/watch?v=pX0SBJF01EU&t=3123s&ab_channel=HiteshChoudhary
